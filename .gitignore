@@ -39,10 +39,8 @@ coverage.xml
 hypothesis/
 .pytest_cache/
 
-# PyCharm
+# IDEs
 .idea/
-
-# VS Code
 .vscode/
 
 # macOS
@@ -50,3 +48,7 @@ hypothesis/
 
 # Compiled Python files
 *.pyc
+
+# Editor swap / temp files
+*~
+.#*
